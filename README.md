@@ -1,8 +1,6 @@
 # 🚀 AWS HTTP API Demo (CRUD)
 
-This project demonstrates a simple serverless API using:
-
-* AWS Lambda
+This project demonstrates a simple serverless API using* AWS Lambda
 * API Gateway (HTTP API)
 * Python
 
@@ -59,16 +57,4 @@ DELETE /orders?id=1
 
 ---
 
-## ⚠️ Note
-
-Data is stored temporarily (in-memory).
-Use DynamoDB for production.
-
----
-
-## 📸 Screenshots
-
-(Add API Gateway, Lambda, Postman screenshots here)
-
----
 
